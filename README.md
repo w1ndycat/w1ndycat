@@ -1,6 +1,6 @@
 这里是 @ w1ndycat🎉  
 👴初二废物一个，啥也不会。     
-![bili-card](https://bilibili-readme-stats.vercel.app/api?id=524510187&card=pink)
+![bili-card](https://bilibili-readme-stats.vercel.app/api?id=524510187&card=pink)   
 [![w1ndycat's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ndycat)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 absolutevaluesb/absolutevaluesb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
